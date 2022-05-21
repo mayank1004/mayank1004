@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mayank Bhtt, Software engineer from 9 to 5 and sophophilic, _home_-chef :man_cook:, hiker :running_man:, nature-lover :seedling:, and food-lover :shallow_pan_of_food: 
+- 👋 Hi, I’m Mayank Bhatt, Software engineer from 9 to 5 and sophophilic, _home_-chef :man_cook:, hiker :running_man:, nature-lover :seedling:, and food-lover :shallow_pan_of_food: 
 - 👀 I’m interested in learning new techonolgies, build/contributing to build which helps spreading happiness to others, and help nature. 
 
 <!---
